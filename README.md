@@ -4,12 +4,12 @@ Welcome to The Hangman, an immersive word-guessing adventure that challenges you
 
 ## Table of Contents
 
-- [Introduction](https://github.com/T-Spamer/The_Hangman#-Introduction)
-- [Features](https://github.com/T-Spamer/The_Hangman#-Features)
-- [Installation](https://github.com/T-Spamer/The_Hangman#-Installation)
-- [Gameplay](https://github.com/T-Spamer/The_Hangman#-Gameplay)
-- [Documentation](https://github.com/T-Spamer/The_Hangman#-Documentation)
-- [Screens](https://github.com/T-Spamer/The_Hangman#-Screens)
+- [Introduction](https://github.com/T-Spamer/The_Hangman#introduction)
+- [Features](https://github.com/T-Spamer/The_Hangman#features)
+- [Installation](https://github.com/T-Spamer/The_Hangman#installation)
+- [Gameplay](https://github.com/T-Spamer/The_Hangman#gameplay)
+- [Documentation](https://github.com/T-Spamer/The_Hangman#documentation)
+- [Screens](https://github.com/T-Spamer/The_Hangman#screens)
 
 ## Introduction
 
